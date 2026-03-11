@@ -5,4 +5,5 @@ a lényege, az hogy  el kell kapni lefele esző tárgyakat, amik különböző m
 ![screenshot](p.png)
 
 Ha elkap 3-szor, game over:
+
 ![screenshot](f.png)
